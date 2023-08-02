@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://o.remove.bg/downloads/4c28ecdd-2f57-4853-9d4c-0ba8c416b596/young-woman-uses-computer-work-reduce-infection_1150-34985-removebg-preview.png" align="center" height="" width="120" />
+<img src="https://github.com/ayaolitoquit/ayaolitoquit/assets/108008563/abbc4f55-77da-4d9a-99df-69eeb3b2a8df" align="center" height="" width="120" />
+<!-- <img src="https://o.remove.bg/downloads/4c28ecdd-2f57-4853-9d4c-0ba8c416b596/young-woman-uses-computer-work-reduce-infection_1150-34985-removebg-preview.png" align="center" height="" width="120" /> -->
+  
 </div>  
   
 
